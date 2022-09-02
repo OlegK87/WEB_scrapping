@@ -1,4 +1,3 @@
-import re
 import bs4
 import requests
 from fake_useragent import UserAgent
